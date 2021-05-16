@@ -1,5 +1,4 @@
 # TODOLIST-ANGULAR_APPLICATION :star_struck: :memo: :pencil: :book: :file_folder: :clipboard: :iphone: :computer:
-:wine_glass: :beers: :cocktail: :shaved_ice: :lemon: :strawberry: 
 
 [![Generic badge](https://img.shields.io/badge/intermediate-TypeScript-ff69b4d)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%2011.1.12-Angular%20CLI-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/version%204.6-bootstrap-informational)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%207.12.0-npm-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%203.5.1-Jquery-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Advance-javascript-orange)](https://shields.io/)
 
