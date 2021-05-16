@@ -1,6 +1,10 @@
 import { Component, Input, OnInit, Output,EventEmitter } from '@angular/core';
 import { Todo } from "../../../Todo";
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 @Component({
   selector: 'app-todo-item',
   templateUrl: './todo-item.component.html',
