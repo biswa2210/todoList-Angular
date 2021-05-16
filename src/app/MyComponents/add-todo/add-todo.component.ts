@@ -6,6 +6,11 @@ import { Todo } from '../../../Todo';
   templateUrl: './add-todo.component.html',
   styleUrls: ['./add-todo.component.css']
 })
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export class AddTodoComponent implements OnInit {
   title: string;
   desc: string;
