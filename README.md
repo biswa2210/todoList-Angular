@@ -110,6 +110,7 @@ todolist-Angular
 ## Making :point_down:
 
 <div align="justified">
+  
 This project was generated with [Angular CLI](https://angular.io/cli) version 11.2.12. I have used TypeScript, Javascript, html, bootstrap and css. After creating this app we have source folder I had made My Components using ng generate command. Here I have created total 3 components add todo component, todo item component and todos component. Here all todos are stored in local storage of each device.
 
 </div>
