@@ -30,7 +30,7 @@
 
 </details>
        
-## LINK : :point_right: 
+## LINK : :point_right: https://todolist-by-biswa.netlify.app/
 
 ## Purpose :point_down:
 
