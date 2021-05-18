@@ -13,36 +13,42 @@
 ## About :point_down: 
 
 <div align="justified">
-       
-
+  
+**It is a web application which can be used as [todo-list](https://en.wikipedia.org/wiki/Wikipedia:To-do_list). The name of this web app is 'todolist-Angular'.** This web app is totally responsive. It can be used efficiently in laptop, desktop, android, iphone, or any tab etc. **One special thing is the dark mode or night mode facility.** If we turn off pc by leaving it in dark mode when we will again turn on it it will be in dark mode that time also. This theme is specially for those developers, students, teachers, office workers who work in day time as well as at night. Here we can title and detail for each work we want to finish in future. Here in the list we can see the exact date and time of the issue of that task. It helps us to do our our on time. Once we finish the job we can mark it as finish. And a line like pen through in notes will cut the work. We can also delete the job when we want. For each device their will be different todolist records(as per user). The data in todolist web app will be stored in that device's local storage. It is very easy to use this web app. Anyone can keep their personal tasks' list so that he or she will be able to finish that job in perfect time.       
 </div>
 
-## Catagories of Mocktails in this app :point_down:
- - [x] 'Non-Alcoholic'
- - [x] 'Alcoholic'
+## Some points about data user put in this app :point_down:
+ - [x] 'Safe'<br>
+ - [x] 'No-one can access'<br>
+ - [x] 'Personalized Data in Local Storage of device'<br>
 
- 
-<details>
-       <summary>"Click here to read Country names of famous mocktails"</summary>
- - India<br>
- - London<br>
- - Thailand<br>
+ <details>
+       <summary>"Click here to read what to add for each task'</summary>
+ - Title<br>
+ - Detail<br>
 
 </details>
-       
+
+
+## Theme of this web app :point_down:
+ - [x] 'Light mode/Day mode'<br>
+ - [x] 'Dark mode/Light mode'<br>
+ 
 ## LINK : :point_right: https://todolist-by-biswa.netlify.app/
 
 ## Purpose :point_down:
 
 <div align="justified">
-       
+
+I have made this web app for students, teachers, office workers, businessmen, developers, actually everyone. Anyone can use it for keepping their tasks enlisted. So that they can do their job on time.
 
 </div>
 
 ## Use :point_down:
 
 <div align="justified">
-       
+
+Here user just has to open the particular link of this web app and add task by giving title and detail. User can apply dark mode or light mode according to his or her need. User can mark a job as finished when it's done. User can also delete any task.
 
 </div>      
        
@@ -54,21 +60,55 @@
 
 ## Folder Structure :point_down:
 ```bash
-mocktail-recipe-finder
-       ├── assets
-       |     ├── fonts
-       |     |     ├── CT.ttf
-
-       |     |     └── SM.ttf
-       |     └── images
-       |           ├── attachment.gif
-
- ```                      
+todolist-Angular
+       ├── src
+       |     ├── app
+       |     |     ├── My Components
+       |     |     |           ├── add-todo
+       |     |     |           |      ├── add-todo.component.css
+       |     |     |           |      ├── add-todo.component.html
+       |     |     |           |      ├── add-todo.component.spec.ts
+       |     |     |           |      └── add-todo.component.ts
+       |     |     |           ├── todo-item
+       |     |     |           |      ├── todo-item.component.css
+       |     |     |           |      ├── todo-item.component.html
+       |     |     |           |      ├── todo-item.component.spec.ts
+       |     |     |           |      └── todo-item.component.ts
+       |     |     |           └── todos
+       |     |     |                  ├── todos.component.css
+       |     |     |                  ├── todos.component.html
+       |     |     |                  ├── todos.component.spec.ts
+       |     |     |                  └── todos.component.ts
+       |     |     ├── app-routing.module.ts
+       |     |     ├── app.component.css
+       |     |     ├── app.component.html      
+       |     |     ├── app.component.spec.ts
+       |     |     ├── app.component.ts 
+       |     |     └── app.module.ts
+       |     ├── assets
+       |     |     └── .gitkeep
+       |     ├── environments
+       |     |     ├── environment.prod.ts
+       |     |     └── environment.ts
+       |     ├── Todo.ts
+       |     ├── favicon.ico   
+       |     ├── index.html       
+       |     ├── main.ts      
+       |     ├── polyfills.ts     
+       |     ├── style.css
+       |     └── test.ts
+       ├── e2e
+       |     ├── src
+       |     |     ├── app.e2e-spec.ts
+       |     |     └── app.po.ts
+       |     └── protractor.conf.js
+       └── Karma.conf.js
+```
 
 ## Making :point_down:
 
 <div align="justified">
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12. I have used TypeScript, Javascript, html, bootstrap and css. After creating this app we have source folder I had made My Components using ng generate command. Here I have created total 3 components add todo component, todo item component and todos component. Here all todos are stored in local storage of each device.
 
 </div>
 
@@ -100,11 +140,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/m17.jpeg"><img src="pics/m17.jpeg" width="250" height= "450"></a> <a href="pics/m1.jpeg"><img src="pics/m1.jpeg" width="250" height= "450"></a> <a href="pics/m2.jpeg"><img src="pics/m2.jpeg" width="250" height= "450"></a>
-       
+  
+<a href="pics/todo9.jpeg"><img src="pics/todo9.jpeg" width="250" height= "450"></a> <a href="pics/todo10.jpeg"><img src="pics/todo10.jpeg" width="250" height= "450"></a> <a href="pics/todo11.jpeg"><img src="pics/todo11.jpeg" width="250" height= "450"></a>
+ 
+<a href="pics/todo12.jpeg"><img src="pics/todo12.jpeg" width="250" height= "450"></a> <a href="pics/todo13.jpeg"><img src="pics/todo13.jpeg" width="250" height= "450"></a> <a href="pics/todo14.jpeg"><img src="pics/todo14.jpeg" width="250" height= "450"></a>
 
-     
-<a href="pics/m16.jpeg"><img src="pics/m16.jpeg" width="400" height= "250"></a> <a href="pics/m20.jpeg"><img src="pics/m20.jpeg" width="400" height= "250"></a>
+<a href="pics/todo1.PNG"><img src="pics/todo1.PNG" width="400" height= "300"></a> <a href="pics/todo2.PNG"><img src="pics/todo2.PNG" width="400" height= "300"></a>
+ 
+<a href="pics/todo3.PNG"><img src="pics/todo3.PNG" width="400" height= "300"></a> <a href="pics/todo4.PNG"><img src="pics/todo4.PNG" width="400" height= "300"></a>
+
+<a href="pics/todo5.PNG"><img src="pics/todo5.PNG" width="400" height= "300"></a> <a href="pics/todo6.PNG"><img src="pics/todo6.PNG" width="400" height= "300"></a>
 </div>
 
 
