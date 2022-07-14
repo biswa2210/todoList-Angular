@@ -22,6 +22,10 @@
 **It is a web application which can be used as [todo-list](https://en.wikipedia.org/wiki/Wikipedia:To-do_list). The name of this web app is 'todolist-Angular'.** This web app is totally responsive. It can be used efficiently in laptop, desktop, android, iphone, or any tab etc. **One special thing is the dark mode or night mode facility.** If we turn off pc by leaving it in dark mode when we will again turn on it it will be in dark mode that time also. This theme is specially for those developers, students, teachers, office workers who work in day time as well as at night. Here we can title and detail for each work we want to finish in future. Here in the list we can see the exact date and time of the issue of that task. It helps us to do our our on time. Once we finish the job we can mark it as finish. And a line like pen through in notes will cut the work. We can also delete the job when we want. For each device their will be different todolist records(as per user). The data in todolist web app will be stored in that device's local storage. It is very easy to use this web app. Anyone can keep their personal tasks' list so that he or she will be able to finish that job in perfect time.       
 </div>
 
+## TODOLIST WEBSITE USING ANGULAR DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=glG6UGcPMBI&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=3">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## Some points about data user put in this app :point_down:
  - [x] 'Safe'<br>
  - [x] 'No-one can access'<br>
